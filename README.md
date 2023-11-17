@@ -1,8 +1,8 @@
-# React + Vite
+# 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Build a cool 3D website! A portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow me to show off my skills and get a job!
 
-Currently, two official plugins are available:
+This application deploy on vercel and heres a snapshot of application:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![portfolio](https://github.com/HafizMuneeb/portfolio-3d/assets/124581370/df09729b-132f-46ea-b84f-1f2cc622d28e)
